@@ -42,7 +42,6 @@ and to formulate exhaustive test cases;</br>
 * https://jullsmd.github.io/goit-js-hw-10-food-service/;</br>
 * https://jullsmd.github.io/goit-js-hw-11-color-switch/;</br>
 * https://jullsmd.github.io/goit-js-hw-11-timer/;</br>
-* https://github.com/JullsMD/goit-js-hw-12-countries/;</br>
 * https://github.com/JullsMD/goit-js-hw-13-image-finder/;</br>
 
  React:</br>

@@ -38,7 +38,7 @@ and to formulate exhaustive test cases;</br>
 <b>Pieces of code:</b>
 
  JavaScript:</br>
-* jullsmd.github.io/goit-js-hw-08-gallery/;</br>
+* https://jullsmd.github.io/goit-js-hw-08-gallery/;</br>
 * https://jullsmd.github.io/goit-js-hw-10-food-service/;</br>
 * https://jullsmd.github.io/goit-js-hw-11-color-switch/;</br>
 * https://jullsmd.github.io/goit-js-hw-11-timer/;</br>

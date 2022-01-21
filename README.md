@@ -4,55 +4,55 @@ trainee/junior QA Engineer
 
 Tech Skills:
 
-*Manual testing
-*Test-cases (Excel, TestLink)
-*Check-lists (Excel, Jira)
-*Basic knowledge of SQL(MySQL, PHPMyAdmin)
-*Test-designs
-*Bug-tracking systems(Jira, Mantis, TestRail)
-*Client-server architecture (HTTP, JSON)
-*Postman
-*HTML5/CSS3/SASS/BEM
-*Figma, Avocode
-*Responsive/Adaptive Web Design
-*JavaScript Es6+
-*Handlebars
-*REST API
-*WebPack, Parcel
-*Chrome DevTools
-*React.js
-*NPM, VSCode
-*GIT (GitHub, Git Bush)
-*Slack, Trello
-*Agile/Scrum
+*Manual testing</br>
+*Test-cases (Excel, TestLink)</br>
+*Check-lists (Excel, Jira)</br>
+*Basic knowledge of SQL(MySQL, PHPMyAdmin)</br>
+*Test-designs</br>
+*Bug-tracking systems(Jira, Mantis, TestRail)</br>
+*Client-server architecture (HTTP, JSON)</br>
+*Postman</br>
+*HTML5/CSS3/SASS/BEM</br>
+*Figma, Avocode</br>
+*Responsive/Adaptive Web Design</br>
+*JavaScript Es6+</br>
+*Handlebars</br>
+*REST API</br>
+*WebPack, Parcel</br>
+*Chrome DevTools</br>
+*React.js</br>
+*NPM, VSCode</br>
+*GIT (GitHub, Git Bush)</br>
+*Slack, Trello</br>
+*Agile/Scrum</br>
 
 Soft Skills:
 
-✅ Ability to work with developers starting at the feature specification, through design, 
-and to formulate exhaustive test cases;
-✅ Ability to effectively prioritize and execute tasks in a high-pressure environment;
-✅ Highly motivated with strong organizational, analytical, and problem-solving skills;
-✅ Ability to work autonomously with a remote team of managers and developers;
-✅ Enthusiastic about learning new technologies and systems;
+✅ Ability to work with developers starting at the feature specification, through design, </br>
+and to formulate exhaustive test cases;</br>
+✅ Ability to effectively prioritize and execute tasks in a high-pressure environment;</br>
+✅ Highly motivated with strong organizational, analytical, and problem-solving skills;</br>
+✅ Ability to work autonomously with a remote team of managers and developers;</br>
+✅ Enthusiastic about learning new technologies and systems;</br>
 
 Pieces of code:
 
 *JavaScript:
-jullsmd.github.io/goit-js-hw-08-gallery/;
-https://jullsmd.github.io/goit-js-hw-10-food-service/;
-https://jullsmd.github.io/goit-js-hw-11-color-switch/;
-https://jullsmd.github.io/goit-js-hw-11-timer/;
-https://github.com/JullsMD/goit-js-hw-12-countries/;
-https://github.com/JullsMD/goit-js-hw-13-image-finder/;
+jullsmd.github.io/goit-js-hw-08-gallery/;</br>
+https://jullsmd.github.io/goit-js-hw-10-food-service/;</br>
+https://jullsmd.github.io/goit-js-hw-11-color-switch/;</br>
+https://jullsmd.github.io/goit-js-hw-11-timer/;</br>
+https://github.com/JullsMD/goit-js-hw-12-countries/;</br>
+https://github.com/JullsMD/goit-js-hw-13-image-finder/;</br>
 
 *React:
-https://jullsmd.github.io/goit-react-hw-04-hooks-feedback/;
-https://jullsmd.github.io/goit-react-hw-04-hooks-images/;
-https://jullsmd.github.io/goit-react-hw-04-hooks-phonebook/;
-https://jullsmd.github.io/goit-react-hw-04-movies/;
+https://jullsmd.github.io/goit-react-hw-04-hooks-feedback/;</br>
+https://jullsmd.github.io/goit-react-hw-04-hooks-images/;</br>
+https://jullsmd.github.io/goit-react-hw-04-hooks-phonebook/;</br>
+https://jullsmd.github.io/goit-react-hw-04-movies/;</br>
 
 Participation in such projects:
 
-1)Footer & Team Modal ----- https://github.com/katymykhailova/ddt-js-project; 
-2)Header/Footer ----- https://github.com/Seryoga-Nosik/ddt-project;
+1)Footer & Team Modal ----- https://github.com/katymykhailova/ddt-js-project; </br>
+2)Header/Footer ----- https://github.com/Seryoga-Nosik/ddt-project;</br>
 

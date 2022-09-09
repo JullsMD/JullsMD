@@ -1,6 +1,8 @@
 # YuliiaMelnyk
 
  React:</br>
+* https://jullsmd.github.io/goit-react-hw-05-movies/;</br>
+https://github.com/JullsMD/goit-react-hw-05-movies
 * https://jullsmd.github.io/goit-react-hw-04-images/;</br>
 https://github.com/JullsMD/goit-react-hw-04-images
 * https://jullsmd.github.io/goit-react-hw-04-phonebook/;</br>
